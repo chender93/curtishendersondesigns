@@ -1,6 +1,10 @@
 # Portfolio Site
 
-This site was created to showcase some of my recent projects. I'm excited to hear feedback about this site as well.
+This site was created to showcase some of my recent projects. 
+
+![Site Walkthrough](https://github.com/chender93/curtishendersondesigns/blob/Develop/Site%20Walkthrough.gif?raw=true)
+
+I'm excited to hear feedback about this site as well.
 
 Please feel free to [reach out to me](mailto:officialcurtishenderson@gmail.com) if you have any suggestions!
 
