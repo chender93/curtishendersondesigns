@@ -81,7 +81,7 @@ function Projects(){
         <img src={notetakr} className="card-img-top" alt="NoteTakr Project" />
         <div className="card-body">
           <h5 className="card-title">NoteTakr</h5>
-          <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+          <p className="card-text">Allows a user to create, save, and delete notes at their discretion. The app will save your notes for later reference.
             <a href="https://hidden-coast-30424.herokuapp.com/">
               <img src={browser} alt="browser icon" />
             </a>
@@ -97,7 +97,7 @@ function Projects(){
         <img src={ezsale} className="card-img-top" alt="EZ-sale-ing Project" />
         <div className="card-body">
           <h5 className="card-title">EZ-sale-ing Express App</h5>
-          <p className="card-text">Allows a user to reate, save, and delete notes at their discretion. The app will save your notes for later reference.
+          <p className="card-text">A Node.js app that can be utlized for retail stores that need back-end routes set up.
             <a href="http://www.youtube.com/watch?v=stFWfEPitxQ">
               <img src={browser} alt="browser icon"/>
             </a>
