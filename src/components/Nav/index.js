@@ -23,7 +23,7 @@ function Nav(props) {
                 onClick={() => props.setCurrentSection('Contact')}>CONTACT</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active text-primary" href="https://docs.google.com/document/d/1KEJ08JK2DL0Dp5sxDnwiw0E1P_7AOnN5s_D6BJ81Dvc/edit?usp=sharing">RESUME</a>
+                <a className="nav-link active text-primary" href="https://docs.google.com/document/d/e/2PACX-1vRJpUlcqV7mG-k9CVFfUXu5QNmX1LS1rqQLjVwolv2OZ4fyrnxKsloTkXQxdwAmTIcVJtRPedvJPbyA/pub">RESUME</a>
               </li>
             </ul>
           </div>
