@@ -48,12 +48,12 @@ function Projects(){
       <div className="card text-info">
         <img src={passwordgen} className="card-img-top" alt="Password Generator Project" />
         <div className="card-body">
-          <h5 className="card-title">Password Generator</h5>
-          <p className="card-text">A front-end application that allows users to create a secure password at random with desired specifications.
-            <a href="https://chender93.github.io/password-generator">
+          <h5 className="card-title">GCF Clothing</h5>
+          <p className="card-text">A Christian street wear company utilizing the MERN stack
+            <a href="https://gcfclothing.herokuapp.com">
               <img src={browser} alt="browser icon"/>
             </a>
-            <a href="https://github.com/chender93/password-generator">
+            <a href="https://github.com/chender93/gcfclothing">
               <img src={github} alt="github icon"/>
             </a>
           </p>
